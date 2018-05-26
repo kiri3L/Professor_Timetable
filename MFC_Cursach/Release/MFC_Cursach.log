@@ -1,0 +1,3 @@
+﻿  MainDlg.cpp
+c:\users\lubimoff\desktop\project\mfc_cursach\mfc_cursach\maindlg.cpp(254): error C2661: CDialog::CreateIndirect: нет перегруженной функции, принимающей 0 аргументов
+  Progress_dlg.cpp

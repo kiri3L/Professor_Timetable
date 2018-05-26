@@ -1,0 +1,32 @@
+﻿Сборка начата 22.05.2018 22:20:06.
+     1>Проект "C:\Users\Kostya\documents\visual studio 2015\Projects\MFC_Cursach\MFC_Cursach\MFC_Cursach.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\MFC_Cursach.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MainDlg.cpp Professor_Dlg.cpp
+         Professor_Dlg.cpp
+         MainDlg.cpp
+         Создание кода...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kostya\documents\visual studio 2015\Projects\MFC_Cursach\Debug\MFC_Cursach.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\Kostya\documents\visual studio 2015\Projects\MFC_Cursach\Debug\MFC_Cursach.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kostya\documents\visual studio 2015\Projects\MFC_Cursach\Debug\MFC_Cursach.lib" /MACHINE:X86 Debug\MFC_Cursach.res
+         Debug\calculate.obj
+         Debug\cell.obj
+         Debug\data.obj
+         Debug\ExcelReader.obj
+         Debug\ExcelWriter.obj
+         Debug\factory_lesson.obj
+         Debug\factory_prof.obj
+         Debug\lesson.obj
+         Debug\lesson_list_dlg.obj
+         Debug\MainDlg.obj
+         Debug\MFC_Cursach.obj
+         Debug\NewNameTeacher.obj
+         Debug\professor.obj
+         Debug\Professor_Dlg.obj
+         Debug\reader.obj
+         Debug\start.obj
+         Debug\stdafx.obj
+         MFC_Cursach.vcxproj -> C:\Users\Kostya\documents\visual studio 2015\Projects\MFC_Cursach\Debug\MFC_Cursach.exe
+     1>Сборка проекта "C:\Users\Kostya\documents\visual studio 2015\Projects\MFC_Cursach\MFC_Cursach\MFC_Cursach.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.92
